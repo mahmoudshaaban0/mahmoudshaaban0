@@ -13,7 +13,7 @@ src="https://github.com/user-attachments/assets/54945f3e-2cba-49a1-b159-05149b33
 
 
 ### About me
-I'm an enthusiast of mobile development. Always looking to be the best at what I do.
+Passionate Flutter developer with 3+ years of experience crafting high-performance, scalable apps. With over 6 years in the software industry, I specialize in building intuitive user experiences and architecting robust solutions for startups and enterprises. Driven by clean code, innovation, and delivering impactful products used by thousands.
 
 
 ___
