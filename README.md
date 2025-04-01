@@ -7,8 +7,9 @@
 
 <img
 alt="Mahmoud Banner"
-src="https://github.com/user-attachments/assets/a5e19f2f-90da-4d6c-bb82-48e83332289b"
+src="https://github.com/user-attachments/assets/54945f3e-2cba-49a1-b159-05149b33ea3f"
 />
+
 
 
 ### About me
