@@ -15,6 +15,7 @@ src="https://github.com/user-attachments/assets/54945f3e-2cba-49a1-b159-05149b33
 ### About me
 I'm an enthusiast of mobile development. Always looking to be the best at what I do.
 
+
 ___
 ```dart
 var mahmoud = Developer(
@@ -47,3 +48,9 @@ var mahmoud = Developer(
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white")
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white")
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white")
+
+
+## 🌐 Connect With Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahmoud-shaaban-7b8baa172/)
+- **Twitter/X**: [@yourhandle](https://x.com/its_mahmoud0?s=21)
+- **Email**: mahmoudshaaban578@gmail.com
