@@ -50,7 +50,8 @@ var mahmoud = Developer(
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white")
 
 
-## 🌐 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahmoud-shaaban-7b8baa172/)
-- **Twitter/X**: [@yourhandle](https://x.com/its_mahmoud0?s=21)
-- **Email**: mahmoudshaaban578@gmail.com
+## Connect With Me  
+- **LinkedIn**: [Mahmoud Shaaban](https://www.linkedin.com/in/mahmoud-shaaban-7b8baa172/)  
+- **Twitter/X**: [@its_mahmoud0](https://x.com/its_mahmoud0?s=21)  
+- **Email**: mahmoudshaaban578@gmail.com  
+
