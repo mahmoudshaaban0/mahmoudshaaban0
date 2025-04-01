@@ -27,9 +27,9 @@ var mahmoud = Developer(
 
 ### Github stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fabirt&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mahmoudshaaban0&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabirt&layout=compact&hide=java,lua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshaaban0&layout=compact&hide=java,lua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 
